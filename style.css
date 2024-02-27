@@ -348,7 +348,7 @@ header nav .slide{
     font-size: 2rem;
     line-height: 2.5;
     padding: 0 1rem;
-    position: relative;
+    /* position: relative; */
 }
 .content h2::before{
     content: "";
